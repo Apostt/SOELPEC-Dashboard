@@ -1,7 +1,6 @@
 {
-  "NewLedProfile": "9.4.10",
-  "SimHubVersion": "9.4.10",
-  "SimHubRequired": "9.4.10",
-  "DashboardVersion": "1.4.1",
-  "PluginVersion": "1.4.0"
+    "DashboardVersion": "1.4.1",
+    "PluginVersion": "1.4.0",
+    "SimHubRequired": "9.7.8",
+    "NewLedProfile": "9.7.8",
 }
